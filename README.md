@@ -16,6 +16,8 @@ The project is structured into the following key components:
 3. **Critical Thinking in Analysis**: Throughout the project, critical thinking was employed to make logical decisions and draw meaningful insights from the dataset, enabling a comprehensive understanding of the underlying trends and patterns.
 
 4. **Data Visualization in Tableau**: A dynamic and informative Tableau dashboard was created to visualize the key findings and trends derived from the dataset. The visualizations offer intuitive representations of complex data, facilitating easier interpretation and analysis.
+![image](https://github.com/TylerM-16/Excel-and-Tableau-Project/assets/150025850/de7bcc21-7429-416a-81c5-e9755d4f945d)
+
 
 ## Skills Demonstrated
 - **Data Cleaning:** Demonstrated proficiency in handling missing data, outliers, and inconsistencies to ensure data quality and reliability.
