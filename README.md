@@ -27,7 +27,7 @@ The project is structured into the following key components:
 The project lays the foundation for potential future enhancements, such as [mention potential areas for further analysis, additional data sources, or advanced visualization techniques] to deepen the understanding of the dataset and extract more valuable insights.
 
 ## Contact Information
-Feel free to reach out to me via email at [your email address] for any questions, feedback, or collaboration opportunities related to this project.
+Feel free to reach out to me via email at [Tylermc4@outlook.com] for any questions, feedback, or collaboration opportunities related to this project.
 
 [Link To My Dashboard](https://public.tableau.com/views/Top20NationsByWealthDashboard-Tyler/HighestRankingNationsByWealth?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
